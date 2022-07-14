@@ -6,6 +6,5 @@ public class SingleNumber {
             xor=xor^i;
         }
         return xor;
-
     }
 }
